@@ -25,7 +25,7 @@
    <a href="https://www.linkedin.com/in/isabele-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:isabele.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- ![Snake animation](https://github.com/Isab3le/Isab3le/blob/output/github-contribution-grid-snake-dark.svg)
+ ![Snake animation](https://github.com/Isab3le/Isab3le/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
