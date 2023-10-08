@@ -26,4 +26,7 @@
   <a href = "mailto:isabele.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  ![Snake animation](https://github.com/Isab3le/Isab3le/blob/output/github-contribution-grid-snake-dark.svg)
+ 
 </div>
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=artur-debv&repo=artur-debv&theme=react)](https://github.com/artur-debv/artur-debv)
